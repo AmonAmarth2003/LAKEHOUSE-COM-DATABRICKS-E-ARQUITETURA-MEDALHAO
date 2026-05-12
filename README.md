@@ -21,17 +21,17 @@
 ├── docs/
 │   └── Empty
 │
-notebooks/
-├── setup/
-│   └── 001_preparando_ambiente.dbc
-├── bronze/
-│   └── 002_bronze.dbc
-├── silver/
-│   └── 003_silver.dbc
-├── gold/
-│   └── 004_gold.dbc
-├── cleanup/
-│   └── 005_destruindo_ambiente.dbc
+├── notebooks/
+│   ├── setup/
+│   │   └── 001_preparando_ambiente.dbc
+│   ├── bronze/
+│   │   └── 002_bronze.dbc
+│   ├── silver/
+│   │   └── 003_silver.dbc
+│   ├── gold/
+│   │   └── 004_gold.dbc
+│   └── cleanup/
+│       └── 005_destruindo_ambiente.dbc
 │
 ├── LICENSE
 └── README.md
